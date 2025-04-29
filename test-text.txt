@@ -1,1 +1,1 @@
-Test github update directly
+Test github
